@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TinyChat</string>
+    <string name="hello_world">Hello World</string>
+    <string name="server_timestamp">server_timestamp</string>
+    <string name="lost_internet">Lost connectivity to the Internet.</string>
+    <string name="internet_connected">Connected to the Internet</string>
+    <string name="tools_sent">Sent</string>
+    <string name="msg_error">There was an error in sending the message</string>
+    <string name="msg_sending">Sending</string>
+    <string name="msg_connecting">Connecting</string>
+    <string name="msg_sent">Message Sent</string>
+    <string name="msg_clear">Type and press Send to send Message</string>
+    <string name="msg_online">Online</string>
+    <string name="msg_offline">Offline</string>
+    <string name="msg_queued">Message saved and will be sent once app is online.</string>
+</resources>
